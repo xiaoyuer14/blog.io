@@ -1,27 +1,27 @@
 # Site settings
-title: 读立写生
+title: 辣肉面、辣酱面、大排面，面面俱到；叉烧包、豆沙包、三鲜包，包包不同。
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "爱吃土豆的洋山芋"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://xiaoyuer14"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " xiaoyuer14"
+  email: xiaoyuer-14@163.com
+  bio: "就是随便写写"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+#douban_username:  
+#twitter_username: 
+github_username: xiaoyuer14
+#facebook_username: 
+weibo_username: 爱吃土豆的洋山芋 
+#zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -51,9 +51,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : xye14
   disqus :
-      short_name : cnfeat
+      short_name : xye14
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
